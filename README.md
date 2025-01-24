@@ -18,6 +18,6 @@ I implemented this loader by background animations.
 2.  Go to the directory
 3.  Open index.html with your browser
 
-## Author
+## Developer
 
 [Homayoun Naji](https://github.com/Homayoun-Naji)
