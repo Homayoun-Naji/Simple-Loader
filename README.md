@@ -6,7 +6,7 @@ I implemented this loader by background animations.
 
 ## Screenshots
 
-![loader](./images/screenshot.png)
+![loader](./Images/screenshot.png)
 
 ## Features
 
